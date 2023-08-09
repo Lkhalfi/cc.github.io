@@ -1,2 +1,2 @@
-# cc.github.io
-cc
+# test.github.io
+test
